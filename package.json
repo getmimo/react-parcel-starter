@@ -1,0 +1,30 @@
+{
+  "name": "react-parcel-starter",
+  "version": "1.0.0",
+  "description": "starter for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getmimo/react-parcel-starter.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Mimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getmimo/react-parcel-starter/issues"
+  },
+  "homepage": "https://github.com/getmimo/react-parcel-starter#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.0"
+  }
+}
