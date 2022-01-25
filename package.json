@@ -2,7 +2,7 @@
   "name": "react-parcel-starter",
   "version": "1.0.0",
   "description": "starter for react",
-  "main": "index.js",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "predeploy": "npm run build",
